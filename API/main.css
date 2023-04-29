@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+    margin: 15px;
+}
+
+#sub {
+    margin: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
+#left, #right {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+  }
